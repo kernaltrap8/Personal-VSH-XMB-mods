@@ -27,7 +27,7 @@ folder in the dev_blind window. the path needs to be dev_blind/vsh/module. once 
 are there, scroll down until you see a clear space, and press circle, then Paste.
 Now, once it is done you can reboot the console.
 
-That should be about it! All file creation/extraction credits go to RockL79#1695 on Discord.
+That should be about it! 
 Enjoy this classic and timeless PS3 modification.
 
 # Some images
