@@ -29,3 +29,7 @@ Now, once it is done you can reboot the console.
 
 That should be about it! All file creation/extraction credits go to RockL79#1695 on Discord.
 Enjoy this classic and timeless PS3 modification.
+
+# Some images
+![What the icons are](https://user-images.githubusercontent.com/94473358/203655219-572037b0-4f14-414c-93e5-f4b1f60d2b24.jpg)
+![another image to show wave better](https://user-images.githubusercontent.com/94473358/203655221-5ef055dc-e8c7-4e8f-b42d-11113c7ebb1e.jpg)
