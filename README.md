@@ -8,9 +8,6 @@ mmOS can be a bit finiky, so dont just copy the folder into
 dev_blind/vsh/resource, just copy the files/folders and scroll down 
 to a blank space.
 
-
-
-
 Mount dev_flash as dev_blind in multiMAN: Open multiMAN and scroll to the left 
 until you get to the settings tab. 
 Press DPAD UP once to land on "Mount dev_flash with write permissions in mmOS"
@@ -29,6 +26,9 @@ Now, once it is done you can reboot the console.
 
 That should be about it! 
 Enjoy this classic and timeless PS3 modification.
+
+# How to uninstall
+Delete the `gameboot_multi.ac3` and `gameboot_stereo.ac3` files, and copy the new files from `Original Files` in the repository.
 
 # Some images
 ![What the icons are](https://user-images.githubusercontent.com/94473358/203655219-572037b0-4f14-414c-93e5-f4b1f60d2b24.jpg)
