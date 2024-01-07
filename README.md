@@ -3,7 +3,6 @@ My personal VSH/XMB mods. Dont install SPRXs on PS3HEN.
 
 # How to install
 
-You must be on CFW for this to work, HEN will cause a soft-brck.
 mmOS can be a bit finiky, so dont just copy the folder into 
 dev_blind/vsh/resource, just copy the files/folders and scroll down 
 to a blank space.
